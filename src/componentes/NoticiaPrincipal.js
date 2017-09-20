@@ -8,24 +8,24 @@ class NoticiaPrincipal extends Component {
                 <div className="carousel-item active">
                     <div className="jumbotron jumbotron-fluid">
                         <div className="container">
-                            <h1 className="display-3">Rock in Rio</h1>
-                            <p className="lead">Protesto e tributo a Cássia Eller levantam público em show de Frejat no RiR...</p>
+                            <h1 className="display-3 text-center">Rock in Rio</h1>
+                            <p className="lead text-center">Protesto e tributo a Cássia Eller levantam público em show de Frejat no RiR.</p>
                         </div>
                     </div>
                 </div>
                 <div className="carousel-item">
                     <div className="jumbotron jumbotron-fluid">
                         <div className="container">
-                            <h1 className="display-3">Fluid jumbotron</h1>
-                            <p className="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+                            <h1 className="display-3 text-center">Política</h1>
+                            <p className="lead text-center">Fachin rejeita pedido de Temer para devolver nova denúncia à PGR.</p>
                         </div>
                     </div>
                 </div>
                 <div className="carousel-item">
                     <div className="jumbotron jumbotron-fluid">
                         <div className="container">
-                            <h1 className="display-3">Fluid jumbotron</h1>
-                            <p className="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+                            <h1 className="display-3 text-center">Mundo</h1>
+                            <p className="lead text-center">Furacão Maria causa destruição no Caribe.</p>
                         </div>
                     </div>
                 </div>

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import MenuLateral from './MenuLateral';
 import NoticiaPrincipal from './NoticiaPrincipal';
+import NoticiasGerais from './NoticiasGerais';
 
 class Container extends Component {
   render() {
@@ -10,11 +11,12 @@ class Container extends Component {
                 <div className="w-25 p-2 float-md-left">
                     <MenuLateral />
                 </div>
-                <div className="w-75 p-3 float-md-left">
+                <div className="w-75 p-2 float-md-left">
                     <div>
                         <NoticiaPrincipal />
                     </div>
                     <div>
+                        <NoticiasGerais />
                     </div>
                 </div>
             </div>
